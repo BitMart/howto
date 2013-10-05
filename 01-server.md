@@ -42,7 +42,7 @@ Instance` and use the classic wizard. Select the `Community AMIs`
 tab and punch one of the following AMIs into the search box (the
 search will take about 45 seconds.)
 
-  Zone              x86             x64
+    Zone              x86             x64
     us-east-1         ami-f494e99d    ami-9e95e8f7
     us-west-1         ami-b083aaf5    ami-9283aad7
     us-west-2         ami-a5831095    ami-4d83107d
