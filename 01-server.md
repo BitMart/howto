@@ -60,4 +60,4 @@ type. A micro instance will do just fine for running everything but
 you'll be maxed out on memory. I recommend small at minimum, medium
 is great though. (Roughly $20-30/mo.)
 
-Next we'll need to setup your new instances. Move on to http://github.com/bitmart/howto/02-server-setup.md
+Next we'll need to setup your new instances. Move on to [02 - Server Config](https://github.com/BitMart/howto/blob/master/02-server-config.md)
