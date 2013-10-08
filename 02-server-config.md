@@ -4,7 +4,7 @@ Server Config
 First up: SSH access. You'll need to login to your new server in 
 order to configure anything. You will need the private key used to 
 start your new instance (whatever.pem). If you're using windows & PuTTY,
-follow (this guide)[http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html] 
+follow [this guide](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
 to get up and running with your new instance. Make sure to login as the `admin` user.
 
 If you're on linux, a simple
