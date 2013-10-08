@@ -59,3 +59,5 @@ Once the image appears, click `Select` and choose your instance
 type. A micro instance will do just fine for running everything but
 you'll be maxed out on memory. I recommend small at minimum, medium
 is great though. (Roughly $20-30/mo.)
+
+Next we'll need to setup your new instances. Move on to http://github.com/bitmart/howto/02-server-setup
