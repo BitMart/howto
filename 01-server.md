@@ -31,8 +31,8 @@ need to create a security group. Click `Create Security Group` and
 name it appropriately. Switch to the `Inbound` tab and create the
 following custom rules.
 
-  Type  Port    Source          Comment
-  TCP   22      0.0.0.0/0       SSH
+    Type  Port    Source          Comment
+    TCP   22      0.0.0.0/0       SSH
 
 Instance
 --------
@@ -42,18 +42,18 @@ Instance` and use the classic wizard. Select the `Community AMIs`
 tab and punch one of the following AMIs into the search box (the
 search will take about 45 seconds.)
 
-  Zone              x86             x64
-  us-east-1         ami-f494e99d    ami-9e95e8f7
-  us-west-1         ami-b083aaf5    ami-9283aad7
-  us-west-2         ami-a5831095    ami-4d83107d
-  eu-west-1         ami-c35f43b7    ami-035f4377
-  ap-southeast-1    ami-7a773e28    ami-46773e14
-  ap-southeast-2    ami-7705964d    ami-7b059641
-  ap-northeast-1    ami-dfde4ade    ami-b3de4ab2
-  sa-east-1         ami-5e288d43    ami-26288d3b
-  us-gov-west-1     ami-0992f62a    ami-0f92f62c
+    Zone              x86             x64
+    us-east-1         ami-f494e99d    ami-9e95e8f7
+    us-west-1         ami-b083aaf5    ami-9283aad7
+    us-west-2         ami-a5831095    ami-4d83107d
+    eu-west-1         ami-c35f43b7    ami-035f4377
+    ap-southeast-1    ami-7a773e28    ami-46773e14
+    ap-southeast-2    ami-7705964d    ami-7b059641
+    ap-northeast-1    ami-dfde4ade    ami-b3de4ab2
+    sa-east-1         ami-5e288d43    ami-26288d3b
+    us-gov-west-1     ami-0992f62a    ami-0f92f62c
 
-Source: https://wiki.debian.org/Cloud/AmazonEC2Image/Wheezy#A7.1a
+    Source: https://wiki.debian.org/Cloud/AmazonEC2Image/Wheezy#A7.1a
 
 Once the image appears, click `Select` and choose your instance
 type. A micro instance will do just fine for running everything but
